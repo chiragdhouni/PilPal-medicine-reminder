@@ -15,11 +15,25 @@ PilPal is a **React Native** app designed to help users manage their medications
 
 ## Screenshots
 
-![Calander View](screenshots/photo_2025-02-26_01-16-05.jpg)
-![Onboarding](screenshots/photo_2025-02-26_01-16-10.jpg)
-![Auth](screenshots/photo_2025-02-26_01-16-15.jpg)
-![Add medication](screenshots/photo_2025-02-26_01-16-20.jpg)
-![Home](screenshots/photo_2025-02-26_01-16-25.jpg)
+### Calendar View
+
+<img src="screenshots/photo_2025-02-26_01-16-05.jpg" alt="Calendar View" width="400"/>
+
+### Onboarding
+
+<img src="screenshots/photo_2025-02-26_01-16-10.jpg" alt="Onboarding" width="400"/>
+
+### Authentication
+
+<img src="screenshots/photo_2025-02-26_01-16-15.jpg" alt="Auth" width="400"/>
+
+### Add Medication
+
+<img src="screenshots/photo_2025-02-26_01-16-20.jpg" alt="Add Medication" width="400"/>
+
+### Home
+
+<img src="screenshots/photo_2025
 
 ## 🛠️ Tech Stack
 
