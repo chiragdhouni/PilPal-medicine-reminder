@@ -3,6 +3,11 @@
     "name": "pillpal",
     "slug": "pillpal",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "fbb68b32-7783-47af-92e7-66be3b8039e0"
+      }
+    },
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
