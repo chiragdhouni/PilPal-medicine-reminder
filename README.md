@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+# 🏥 PilPal - Medicine Reminder App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+PilPal is a **React Native** app designed to help users manage their medications efficiently. It features local storage, biometric authentication, notifications, a calendar view, and a medicine tracker to ensure users never miss a dose.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+✅ **Medicine Reminder** – Get timely notifications for your medication schedule.  
+✅ **Local Storage** – Store and retrieve medicine data without an internet connection.  
+✅ **Biometric Authentication** – Secure your app using fingerprint or face recognition.  
+✅ **Calendar View** – Easily visualize your medication schedule in a monthly format.  
+✅ **Refill Reminders** – Get alerts when it's time to restock your medications.  
+✅ **Medicine Tracker** – Log doses taken and track missed medications.
 
-2. Start the app
+## Screenshots
 
-   ```bash
-    npx expo start
-   ```
+![Calander View](screenshots/photo_2025-02-26_01-16-05.jpg)
+![Onboarding](screenshots/photo_2025-02-26_01-16-10.jpg)
+![Auth](screenshots/photo_2025-02-26_01-16-15.jpg)
+![Add medication](screenshots/photo_2025-02-26_01-16-20.jpg)
+![Home](screenshots/photo_2025-02-26_01-16-25.jpg)
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **React Native** – Cross-platform mobile development
+- **AsyncStorage** – Local storage for saving user data
+- **React Native Push Notifications** – In-app reminders
+- **React Native Biometrics** – Secure authentication
+- **React Native Calendars** – Medicine schedule visualization
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🔒 Permissions
+To ensure the app functions properly, grant the following permissions:
+📌 Notification Access – For reminders
+📌 Biometric Access – For secure authentication
